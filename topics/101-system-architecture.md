@@ -94,9 +94,15 @@ systemctl list-unit-files --type=target
 ---
 
 Exam tip:
+
+Show what is in use now
 ```bash
-list-units shows what is in use now.
-list-unit-files shows what exists on the system.
+systemctl list-units
+```
+
+Shows what exists on the system.
+```bash
+systemctl list-unit-files
 ```
 
 

@@ -54,31 +54,50 @@ Generate/rebuild `grub.cfg` (depends on distro):
 Start a service now:
 ```bash
 sudo systemctl start <service>
+```
 
 Enable a service at boot:
+```bash
 sudo systemctl enable <service>
+```
 
 Switch to another target immediately:
+```bash
 sudo systemctl isolate <target>
+```
 
 Set the default target:
+```bash
 sudo systemctl set-default <target>
+```
 
 View the current default target:
+```bash
 systemctl get-default
+```
 
 List active units (what is running/loaded now):
+```bash
 systemctl list-units
+```
 
 List unit files installed on the system (what exists on disk):
+```bash
 systemctl list-unit-files
+```
 
 List targets (installed unit files of type target):
+```bash
 systemctl list-unit-files --type=target
+```
+
+---
 
 Exam tip:
+```bash
 list-units shows what is in use now.
 list-unit-files shows what exists on the system.
+```
 
 
 

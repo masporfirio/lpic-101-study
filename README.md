@@ -6,8 +6,8 @@ My own notes and small practice exercises for LPIC-1 Exam 101 topics.
 
 - Linux Essentials certification achieved in 2025.
 - LPIC-1 Exam 101 version 5.0 training course completed in 2025 (56 hours).
-- This course completion is not an LPIC-1 certification or a claim that I passed Exam 101.
-- My current certification study is focused on Exam 102 topics, while I keep reviewing the Exam 101 foundations in this repository.
+- **LPIC-1 certified** - Linux Professional Institute.
+- I keep reviewing the Exam 101 foundations through the notes and exercises in this repository.
 
 Certificates and course documents are not stored in this public repository because they contain personal identifiers.
 

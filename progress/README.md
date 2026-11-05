@@ -20,4 +20,4 @@ I use this page as a short review list rather than a percentage-complete tracker
 
 ## Current direction
 
-My current certification study is focused on LPIC-1 Exam 102 topics. I still return to these Exam 101 notes when a lab exposes a gap in the foundations.
+I am now **LPIC-1 certified**. I continue using these Exam 101 notes to review the foundations and practise areas that need more work.
